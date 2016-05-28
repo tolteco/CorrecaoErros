@@ -14,6 +14,26 @@ void tab_base(){///       8  4  2  1      8  4  2  1
 
 }
 
+int testeC(){//Separar os testes C1, C2, C4, C8 todos nesta função "testeC", ou em funções separadas?
+    int i, T1[12], G; //T é a tabela com as 12 variáveis
+    int V;//Passar em uma variável 8 bits (Pode mudar a variavel V e seu tipo se preciso)
+
+    for(i=0;i<12;i++){
+        if (//Se T1[0], T1[1], T1[3], T1[7], fazer o xor (deixar em branco essas posições) ){
+
+        }
+        else{//Se não forem as posições do if colocar a variavel lida V.
+
+        }
+    }
+    //Verificar estes xor
+    T1[0]=T1[2]^T1[4]^T1[6]^T1[8]^T1[10];//Acredito q o xor é assim e que deve ser feito o xor entre essas posições
+    T1[1]=T1[2]^T1[5]^T1[6]^T1[9]^T1[10];
+    T1[3]=T1[4]^T1[5]^T1[6]^T1[11];
+    //T1[7]=T1[2]^T1[4]^T1[6]^T1[8]^T1[10]; Entre quem sera feito estes xor?
+
+}
+
 int leitura(){
     int N;
     printf("Entrei em leitura = arquivo %s\n", arquivo);
