@@ -1,0 +1,220 @@
+﻿2016-03-20 13:55:45.6446|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 30 at RepositoryViewModel.cs:318 after blocking 0.0094985s
+2016-03-20 13:54:12.1928|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:
+2016-03-20 13:54:12.2128|INFO|thread: 1|CommandLineHandler|Unprocessed args: 
+2016-03-20 13:54:12.2128|INFO|thread: 1|AppInstance|Starting up as master instance of GitHub Desktop
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| #########################################
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| GitHub Desktop started. VERSION: 3.0.15.0
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| Build version: 803d421f68cf4cc48e08dc6d1349bd2644ba1fee
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| ***************************************
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| ***        Have a problem?          ***
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| ***    Email support@github.com     ***
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| ***      and include this file      ***
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| ***************************************
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 amd64
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| CLR Version: 4.0.30319.18063
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| Current culture: pt-BR
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| Environment.CurrentDirectory: C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| Terminal Services session: no
+2016-03-20 13:54:12.3678|INFO|thread: 5|StartupLogging| Location: C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4\GitHub.exe
+2016-03-20 13:54:12.3678|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2016-03-20 13:54:12.3678|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2016-03-20 13:54:12.3908|INFO|thread: 5|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2016-03-20 13:54:12.3908|INFO|thread: 5|StartupLogging| System.Environment.CommandLine: C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4\GitHub.exe
+2016-03-20 13:54:12.4168|INFO|thread: 1|App|Checking whether application is network deployed: True
+2016-03-20 13:54:12.4168|INFO|thread: 1|App|Shortcut C:\Users\Maycon\AppData\Local\GitHub\GitHub.appref-ms exists? True
+2016-03-20 13:54:12.4458|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-20 13:54:12.4458|INFO|thread: 5|GitEnvironment|PATH is C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\bin;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\share\git-tfs;C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4;C:\Users\Maycon\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;G:\Program-Files\Python\;G:\Program-Files\Python\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Arquivos de Programas\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;D:\Arquivos de Programas\Latex\miktex\bin
+2016-03-20 13:54:12.4868|INFO|thread: 5|StartupLogging| =====================================================
+2016-03-20 13:54:12.4868|INFO|thread: 5|StartupLogging|  DIAGNOSTICS                                        |
+2016-03-20 13:54:12.4868|INFO|thread: 5|StartupLogging| =====================================================
+2016-03-20 13:54:12.4978|INFO|thread: 5|StartupLogging| Git Extracted: 'True:
+2016-03-20 13:54:12.4978|INFO|thread: 5|StartupLogging| PortableGit Dir Exists: 'C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9'
+2016-03-20 13:54:12.4978|INFO|thread: 5|StartupLogging| Git Executable Exists: 'C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd\git.exe'
+2016-03-20 13:54:12.4978|ERROR|thread: 5|StartupLogging| MISSING PATH!!: 'D:\Arquivos de Programas\AMD\ATI.ACE\Core-Static'
+2016-03-20 13:54:12.5068|INFO|thread: 5|StartupLogging| ----------------------------------------------------
+2016-03-20 13:54:12.5068|INFO|thread: 5|StartupLogging| PATH: G:\Program-Files\Python\;G:\Program-Files\Python\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Arquivos de Programas\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;D:\Arquivos de Programas\Latex\miktex\bin
+2016-03-20 13:54:12.5828|INFO|thread: 5|StartupLogger|Proxy information: (None)
+2016-03-20 13:54:12.5838|INFO|thread: 5|StartupLogger|Couldn't fetch creds for proxy
+2016-03-20 13:54:12.6238|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4\Images\App.ico'
+2016-03-20 13:54:13.4848|INFO|thread: 5|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2016-03-20 13:54:13.6968|INFO|thread: 5|MsysGitCertificateInstaller|Found certificate cache, loaded 156 certificates
+2016-03-20 13:54:13.7338|INFO|thread: 5|MsysGitCertificateInstaller|Created certificate bundle with 191 entries
+2016-03-20 13:54:13.9056|INFO|thread: 5|StartupSequence|Took 454ms to Update certificate bundle from system store
+2016-03-20 13:54:15.1754|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2016-03-20 13:54:15.1754|INFO|thread: 1|GitClient|Installing git lfs filters
+2016-03-20 13:54:15.1754|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-20 13:54:15.1754|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\bin;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\share\git-tfs;C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4;C:\Users\Maycon\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2016-03-20 13:54:15.2134|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd\git.exe', Args: 'lfs install --force ', Working Directory: C:\Users\Maycon\AppData\Local\Temp\
+2016-03-20 13:54:19.0174|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2016-03-20 13:54:19.0174|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2016-03-20 13:54:22.8064|INFO|thread: 5|SoftwareUpdateViewModel|Checking for new version
+2016-03-20 13:54:29.8066|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2016-03-20 13:54:32.6926|WARN|thread: 9|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2016-03-20 13:54:34.0426|INFO|thread: 1|RepositoryHost|Log in from cache for login 'Mayconq96' to host 'https://api.github.com/' SUCCEEDED
+2016-03-20 13:54:34.7926|INFO|thread:14|DashboardViewModel|Selected repository '/Tutorial'
+2016-03-20 13:54:34.9026|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 1 at GitClient.cs:628
+2016-03-20 13:54:34.9026|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1 at GitClient.cs:628 after waiting 0.0025853s
+2016-03-20 13:54:34.9146|INFO|thread:14|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 2 at GitClient.cs:606
+2016-03-20 13:54:34.9956|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1 at GitClient.cs:628 after blocking 0.0902906s
+2016-03-20 13:54:35.0076|INFO|thread: 9|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2 at GitClient.cs:606 after waiting 0.0937208s
+2016-03-20 13:54:36.2436|INFO|thread: 9|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 3 at GitClient.cs:623
+2016-03-20 13:54:36.4866|INFO|thread: 9|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 4 at GitClient.cs:224
+2016-03-20 13:54:36.4866|INFO|thread: 9|DashboardViewModel|Took 1665ms to Create RepositoryViewModel for location C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-03-20 13:54:36.4866|INFO|thread: 9|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2 at GitClient.cs:606 after blocking 1.48097s
+2016-03-20 13:54:36.4866|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3 at GitClient.cs:623 after waiting 0.2457977s
+2016-03-20 13:54:36.4866|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 4 at GitClient.cs:224 after waiting 0.0033252s
+2016-03-20 13:54:36.4866|INFO|thread: 4|GitClient|Loading commits for repo: C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-03-20 13:54:36.5616|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 5 at RepositoryViewModel.cs:318
+2016-03-20 13:54:36.5616|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5 at RepositoryViewModel.cs:318 after waiting 0.0016246s
+2016-03-20 13:54:36.5616|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3 at GitClient.cs:623 after blocking 0.0748775s
+2016-03-20 13:54:36.6256|INFO|thread: 4|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\.
+2016-03-20 13:54:36.6676|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 4 at GitClient.cs:224 after blocking 0.1773217s
+2016-03-20 13:54:36.6986|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5 at RepositoryViewModel.cs:318 after blocking 0.1351571s
+2016-03-20 13:54:37.3316|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 6 at GitClient.cs:201
+2016-03-20 13:54:37.3316|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6 at GitClient.cs:201 after waiting 7.75E-05s
+2016-03-20 13:54:37.3316|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 7 at RepositoryModel.cs:596
+2016-03-20 13:54:37.3876|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6 at GitClient.cs:201 after blocking 0.0559577s
+2016-03-20 13:54:37.3876|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after waiting 0.0549865s
+2016-03-20 13:54:37.3876|INFO|thread: 9|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 8 at RepositoryModel.cs:596
+2016-03-20 13:54:37.4066|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 9 at NewPullRequestViewModel.cs:246
+2016-03-20 13:54:37.4196|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 10 at GitClient.cs:290
+2016-03-20 13:54:37.4196|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after blocking 0.0462267s
+2016-03-20 13:54:37.4346|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after waiting 0.0352329s
+2016-03-20 13:54:37.4346|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9 at NewPullRequestViewModel.cs:246 after waiting 0.0277855s
+2016-03-20 13:54:37.4796|INFO|thread: 4|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\.
+2016-03-20 13:54:37.4796|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9 at NewPullRequestViewModel.cs:246 after blocking 0.0461347s
+2016-03-20 13:54:37.4916|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10 at GitClient.cs:290 after waiting 0.0715599s
+2016-03-20 13:54:37.4916|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8 at RepositoryModel.cs:596 after blocking 0.0615469s
+2016-03-20 13:54:37.5036|INFO|thread:12|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-20 13:54:37.5036|INFO|thread:12|GitEnvironment|PATH is C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\bin;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\share\git-tfs;C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4;C:\Users\Maycon\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2016-03-20 13:54:37.5036|INFO|thread:12|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\
+2016-03-20 13:54:39.0616|INFO|thread:25|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'Mayconq96' and user.email = 'mscrat@hotmail.com'
+2016-03-20 13:54:39.1146|INFO|thread:16|SSHProcessManager|Starting ssh-agent.exe
+2016-03-20 13:54:39.1236|INFO|thread:16|PortablePackageManager|Already extracted lfs-amd64.7z, returning 100%
+2016-03-20 13:54:39.1836|INFO|thread: 5|ConcurrentRepositoryConnection|Took 1661ms to git status
+2016-03-20 13:54:39.1836|INFO|thread: 5|ConcurrentRepositoryConnection|Took 1662ms to git status and parse output
+2016-03-20 13:54:39.6266|INFO|thread: 5|NewCommitViewModel|Took 2206ms to load files for C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-03-20 13:54:39.6266|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10 at GitClient.cs:290 after blocking 2.1350985s
+2016-03-20 13:54:39.6906|ERROR|thread:16|RemoteSSHKeyChain|Failed to set up SSH Agent
+System.AggregateException: One or more errors occurred. ---> System.ComponentModel.Win32Exception: Parâmetro incorreto
+   at GitHub.PortableGit.Helpers.SSHProcessManager.CreateSshAgentProcess(String fileName, String arguments, String currentDirectory)
+   at GitHub.PortableGit.Helpers.SSHProcessManager.<>c__DisplayClass1.<StartSshAgent>b__0(Unit _)
+   at System.Reactive.Linq.ObservableImpl.Select`2._.OnNext(TSource value)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at GitHub.PortableGit.Helpers.SSHKeyHelper.<>c__DisplayClasse.<StartSshAgent>b__b()
+   at System.Reactive.Linq.QueryLanguage.<>c__DisplayClass13b.<>c__DisplayClass13d.<ToAsync>b__13a()
+---> (Inner Exception #0) System.ComponentModel.Win32Exception (0x80004005): Parâmetro incorreto
+   at GitHub.PortableGit.Helpers.SSHProcessManager.CreateSshAgentProcess(String fileName, String arguments, String currentDirectory)
+   at GitHub.PortableGit.Helpers.SSHProcessManager.<>c__DisplayClass1.<StartSshAgent>b__0(Unit _)
+   at System.Reactive.Linq.ObservableImpl.Select`2._.OnNext(TSource value)<---
+
+2016-03-20 13:54:40.2336|INFO|thread:16|SSHKeyHelper|Found existing SSH key pair
+2016-03-20 13:54:42.9576|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 11 at GitClient.cs:611
+2016-03-20 13:54:42.9576|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11 at GitClient.cs:611 after waiting 5.6E-05s
+2016-03-20 13:54:42.9576|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11 at GitClient.cs:611 after blocking 0.0122917s
+2016-03-20 13:54:44.0136|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 12 at BranchesViewModel.cs:535
+2016-03-20 13:54:44.0136|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12 at BranchesViewModel.cs:535 after waiting 8.52E-05s
+2016-03-20 13:54:44.0286|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12 at BranchesViewModel.cs:535 after blocking 0.014864s
+2016-03-20 13:54:44.0356|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 13 at RepositoryViewModel.cs:318
+2016-03-20 13:54:44.0356|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13 at RepositoryViewModel.cs:318 after waiting 6.17E-05s
+2016-03-20 13:54:44.0356|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 14 at BranchSynchronizer.cs:126
+2016-03-20 13:54:44.0496|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 14 at BranchSynchronizer.cs:126 after waiting 0.0012993s
+2016-03-20 13:54:44.1406|INFO|thread:16|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2016-03-20 13:54:44.1436|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 14 at BranchSynchronizer.cs:126 after blocking 0.0931902s
+2016-03-20 13:54:44.1676|INFO|thread: 1|NewCommitViewModel|Took 4540ms to render file list for C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-03-20 13:54:44.4026|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13 at RepositoryViewModel.cs:318 after blocking 0.3661596s
+2016-03-20 13:54:44.4026|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 15 at RepositoryViewModel.cs:318
+2016-03-20 13:54:44.4026|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 15 at RepositoryViewModel.cs:318 after waiting 1.38E-05s
+2016-03-20 13:54:44.4026|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 15 at RepositoryViewModel.cs:318 after blocking 0.0001228s
+2016-03-20 13:54:44.4026|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 16 at RepositoryViewModel.cs:318
+2016-03-20 13:54:44.4026|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 16 at RepositoryViewModel.cs:318 after waiting 0.0038665s
+2016-03-20 13:54:44.4216|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 16 at RepositoryViewModel.cs:318 after blocking 0.0146621s
+2016-03-20 13:54:48.7086|INFO|thread: 1|DashboardViewModel|Received request to clone: 'https://github.com/Mayconq96/Gepeto.git'
+2016-03-20 13:54:51.4606|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 17 at GitClient.cs:404
+2016-03-20 13:54:51.4606|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 17 at GitClient.cs:404 after waiting 0.0001245s
+2016-03-20 13:54:51.4606|INFO|thread: 9|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-20 13:54:51.4606|INFO|thread: 9|GitEnvironment|PATH is C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\bin;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\share\git-tfs;C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4;C:\Users\Maycon\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2016-03-20 13:54:51.4606|INFO|thread: 9|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd\git.exe', Args: 'diff-tree --root -m -r -z --name-status 01ad9157cf120fc61d472c0fd66a58ce36b4df94 ', Working Directory: C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\
+2016-03-20 13:54:51.6926|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 18 at ICommittedFileForklift.cs:59
+2016-03-20 13:54:51.6946|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 18 at ICommittedFileForklift.cs:59 after waiting 0.0013958s
+2016-03-20 13:54:51.7826|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 18 at ICommittedFileForklift.cs:59 after blocking 0.0881809s
+2016-03-20 13:54:52.3506|INFO|thread: 1|RepositoryModel|Cloning repo https://github.com/Mayconq96/Gepeto.git
+2016-03-20 13:54:52.3736|INFO|thread: 1|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2016-03-20 13:54:52.3826|INFO|thread: 1|RepositoryModel|Cloning 'https://github.com/Mayconq96/Gepeto.git' to 'Gepeto' in directory 'H:\RepoGit
+2016-03-20 13:54:52.3826|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-20 13:54:52.3826|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\bin;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\share\git-tfs;C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4;C:\Users\Maycon\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2016-03-20 13:54:52.3826|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd\git.exe', Args: 'clone --progress --recursive  --  "https://github.com/Mayconq96/Gepeto.git" "Gepeto" ', Working Directory: H:\RepoGit
+2016-03-20 13:54:53.5126|INFO|thread: 9|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-20 13:54:53.5126|INFO|thread: 9|GitEnvironment|PATH is C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\bin;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\share\git-tfs;C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4;C:\Users\Maycon\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2016-03-20 13:54:53.5126|INFO|thread: 9|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd\git.exe', Args: 'diff-tree --root -m -r -z --numstat 01ad9157cf120fc61d472c0fd66a58ce36b4df94 ', Working Directory: C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\
+2016-03-20 13:55:01.8826|INFO|thread:14|DashboardViewModel|Selected repository 'Mayconq96/Gepeto'
+2016-03-20 13:55:02.2346|INFO|thread:14|DashboardViewModel|Took 0ms to Create RepositoryViewModel for location H:\RepoGit\Gepeto
+2016-03-20 13:55:03.4826|INFO|thread:12|BackgroundFetcher|Got a refresh period for Mayconq96/Gepeto of 300 seconds
+2016-03-20 13:55:03.4826|INFO|thread:12|BackgroundFetcher|Added a delay for Mayconq96/Gepeto of 488 milliseconds
+2016-03-20 13:55:07.8496|ERROR|thread:18|ComparisonGraph|JavaScript Alert from the comparison graph: http://github-app/: TypeError: Cannot read property 'selectCommit' of null
+2016-03-20 13:55:08.3656|INFO|thread:30|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2016-03-20 13:55:08.4496|WARN|thread: 1|StandardUserErrors|Showing user error Please check your log file for more details, or email support if you are still having problems.
+GitHub.IO.ProcessException
+2016-03-20 13:55:08.5396|INFO|thread:14|DashboardViewModel|Selected repository '/Tutorial'
+2016-03-20 13:55:08.5686|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 19 at GitClient.cs:201
+2016-03-20 13:55:08.5686|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 19 at GitClient.cs:201 after waiting 4.19E-05s
+2016-03-20 13:55:08.5686|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 20 at RepositoryModel.cs:596
+2016-03-20 13:55:08.5686|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 20 at RepositoryModel.cs:596 after waiting 2.77E-05s
+2016-03-20 13:55:08.5816|INFO|thread: 9|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 21 at GitClient.cs:290
+2016-03-20 13:55:08.5816|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 21 at GitClient.cs:290 after waiting 3.17E-05s
+2016-03-20 13:55:08.5816|INFO|thread: 9|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 22 at BranchSynchronizer.cs:126
+2016-03-20 13:55:08.5816|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 20 at RepositoryModel.cs:596 after blocking 0.0103292s
+2016-03-20 13:55:08.5816|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 22 at BranchSynchronizer.cs:126 after waiting 8.29E-05s
+2016-03-20 13:55:08.6266|INFO|thread: 9|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2016-03-20 13:55:08.6266|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 22 at BranchSynchronizer.cs:126 after blocking 0.0445684s
+2016-03-20 13:55:08.6266|INFO|thread:33|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-20 13:55:08.6266|INFO|thread:33|GitEnvironment|PATH is C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\bin;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\share\git-tfs;C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4;C:\Users\Maycon\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2016-03-20 13:55:08.6266|INFO|thread:33|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\
+2016-03-20 13:55:08.6506|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 19 at GitClient.cs:201 after blocking 0.0819637s
+2016-03-20 13:55:08.9036|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 23 at BranchSynchronizer.cs:126
+2016-03-20 13:55:08.9036|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 23 at BranchSynchronizer.cs:126 after waiting 3.36E-05s
+2016-03-20 13:55:08.9036|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 24 at GitClient.cs:611
+2016-03-20 13:55:08.9036|INFO|thread:26|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2016-03-20 13:55:08.9036|INFO|thread:26|AsyncReaderWriterLock|Released concurrent scheduler for operation: 23 at BranchSynchronizer.cs:126 after blocking 0.0075661s
+2016-03-20 13:55:08.9036|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 24 at GitClient.cs:611 after waiting 0.0034251s
+2016-03-20 13:55:08.9166|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 24 at GitClient.cs:611 after blocking 0.0057392s
+2016-03-20 13:55:13.2726|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 17 at GitClient.cs:404 after blocking 21.811335s
+2016-03-20 13:55:13.2726|INFO|thread: 1|SelectedCommitViewModel|Took 21822ms to load files for commit 01ad915 in repo C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-03-20 13:55:17.8436|INFO|thread:33|ConcurrentRepositoryConnection|Took 6519ms to git status
+2016-03-20 13:55:17.8436|INFO|thread:33|ConcurrentRepositoryConnection|Took 6520ms to git status and parse output
+2016-03-20 13:55:17.8436|INFO|thread:33|NewCommitViewModel|Took 9264ms to load files for C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-03-20 13:55:17.8436|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 21 at GitClient.cs:290 after blocking 9.2641342s
+2016-03-20 13:55:17.8436|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-03-20 13:55:17.8436|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 25 at RepositoryViewModel.cs:318
+2016-03-20 13:55:17.8436|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 25 at RepositoryViewModel.cs:318 after waiting 2.74E-05s
+2016-03-20 13:55:17.8656|INFO|thread:33|AsyncReaderWriterLock|Released concurrent scheduler for operation: 25 at RepositoryViewModel.cs:318 after blocking 0.0184053s
+2016-03-20 13:55:34.5136|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 26 at GitClient.cs:201
+2016-03-20 13:55:34.5136|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 26 at GitClient.cs:201 after waiting 6.05E-05s
+2016-03-20 13:55:34.5136|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 27 at RepositoryModel.cs:596
+2016-03-20 13:55:34.5136|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 27 at RepositoryModel.cs:596 after waiting 1.72E-05s
+2016-03-20 13:55:34.5226|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 28 at GitClient.cs:290
+2016-03-20 13:55:34.5226|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 29 at BranchSynchronizer.cs:126
+2016-03-20 13:55:34.5226|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 28 at GitClient.cs:290 after waiting 0.0001823s
+2016-03-20 13:55:34.5226|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 27 at RepositoryModel.cs:596 after blocking 0.0086816s
+2016-03-20 13:55:34.5226|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 29 at BranchSynchronizer.cs:126 after waiting 9E-05s
+2016-03-20 13:55:34.5226|INFO|thread: 4|ConcurrentRepositoryConnection|branch stats: remote not found for master
+2016-03-20 13:55:34.5326|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 29 at BranchSynchronizer.cs:126 after blocking 0.0095282s
+2016-03-20 13:55:34.5326|INFO|thread:12|AsyncReaderWriterLock|Released concurrent scheduler for operation: 26 at GitClient.cs:201 after blocking 0.018783s
+2016-03-20 13:55:34.5476|INFO|thread:30|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-20 13:55:34.5476|INFO|thread:30|GitEnvironment|PATH is C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\bin;C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\usr\share\git-tfs;C:\Users\Maycon\AppData\Local\Apps\2.0\DZGY0974.EEB\8ZOWBQ0B.TRD\gith..tion_317444273a93ac29_0003.0000_eb093b9833279bd4;C:\Users\Maycon\AppData\Local\GitHub\lfs-amd64_1.1.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2016-03-20 13:55:34.5476|INFO|thread:30|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Maycon\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\
+2016-03-20 13:55:45.6306|INFO|thread: 9|ConcurrentRepositoryConnection|Took 4611ms to git status
+2016-03-20 13:55:45.6306|INFO|thread: 9|ConcurrentRepositoryConnection|Took 4611ms to git status and parse output
+2016-03-20 13:55:45.6306|INFO|thread: 9|NewCommitViewModel|Took 11110ms to load files for C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-03-20 13:55:45.6306|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 28 at GitClient.cs:290 after blocking 11.1100388s
+2016-03-20 13:55:45.6306|INFO|thread: 1|NewCommitViewModel|Took 1ms to render file list for C:\Users\Maycon\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo
+2016-03-20 13:55:45.6306|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 30 at RepositoryViewModel.cs:318
+2016-03-20 13:55:45.6306|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 30 at RepositoryViewModel.cs:318 after waiting 0.0003103s
