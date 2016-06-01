@@ -7,7 +7,7 @@
 #include <iterator>
 using namespace std;
 
-#define USER_FULL_VIEW false
+#define USER_FULL_VIEW true
 
 FILE *ARQ;
 FILE *ARQ2;

@@ -1,0 +1,19 @@
+Se colocado:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+em "A.txt" será gerado um "A.txt1" com um char P no final.
+
+Se quiser realizar testes simples troque P por:
+
+Q - Para flipar um bit de controle;
+T - Para flipar um bit de dados;
+D - Para flipar dois bits de dados;
+S - Para flipar dois bits de controle;
+U - Para flipar dois bits, um de dados e um de controle.   -- PROBLEMAS
+
+P  = 0101 0000
+Q = 0101 0001
+T = 0101 0100
+D = 0100 0100
+S =  0101 0011
+U = 0101 0101
