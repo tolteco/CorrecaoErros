@@ -50,7 +50,7 @@ int main(){
     MM2 = (TM[0]+TM[1]+TM[2]+TM[3]+TM[4])/5;
     MO = MT+MM2;
     fprintf(OUT, "Para %ix%i\n", l, c);
-    fprintf(OUTCSV, "250x250,");
+    fprintf(OUTCSV, "%ix%i,", l, c);
     fprintf(OUT, "Tempo de execucao da multipicacao convencional %lf\n", MM);
     fprintf(OUTCSV, "%lf,", MM);
     fprintf(OUT, "Tempo de execucao da multipicacao transposta %lf\n", MM2);
