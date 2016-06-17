@@ -103,4 +103,6 @@ MultMatrizOAC.exe 2000 2000 t
 MultMatrizOAC.exe 2000 2000 t
 MultMatrizOAC.exe 2000 2000 t
 MultMatrizOAC.exe 2000 2000 t
+echo Analisando resultados
+Analisador.exe
 echo Fim dos testes

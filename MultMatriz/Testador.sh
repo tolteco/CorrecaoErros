@@ -104,4 +104,6 @@ echo "2000">>Log.txt
 ./MultMatrizOAC.x 2000 2000 t
 ./MultMatrizOAC.x 2000 2000 t
 ./MultMatrizOAC.x 2000 2000 t
+echo "Analisando resultados"
+./Analisador.x
 echo "Fim dos testes"
