@@ -1,0 +1,132 @@
+Threads = 1.
+
+Tempo para elevar ao quadrado:       0,687000 s
+Tempo para elevar ao quadrado:       0,670000 s
+Tempo para alocar matriz e subtrair: 0,969000 s
+Tempo para acumular:                 0,577000 s
+Tempo de processamento total:        2,903000 s
+Resultado final acumulado:           268435456,0.
+
+Tempo para elevar ao quadrado:       0,671000 s
+Tempo para elevar ao quadrado:       0,670000 s
+Tempo para alocar matriz e subtrair: 1,030000 s
+Tempo para acumular:                 0,593000 s
+Tempo de processamento total:        2,964000 s
+Resultado final acumulado:           0,0.
+
+Tempo para elevar ao quadrado:       0,686000 s
+Tempo para elevar ao quadrado:       0,671000 s
+Tempo para alocar matriz e subtrair: 1,030000 s
+Tempo para acumular:                 0,592000 s
+Tempo de processamento total:        2,979000 s
+Resultado final acumulado:           -805306368,0.
+
+Tempo para elevar ao quadrado:       0,686000 s
+Tempo para elevar ao quadrado:       0,688000 s
+Tempo para alocar matriz e subtrair: 1,107000 s
+Tempo para acumular:                 0,577000 s
+Tempo de processamento total:        3,058000 s
+Resultado final acumulado:           -2415919104,0.
+
+Tempo para elevar ao quadrado:       0,671000 s
+Tempo para elevar ao quadrado:       0,671000 s
+Tempo para alocar matriz e subtrair: 1,154000 s
+Tempo para acumular:                 0,578000 s
+Tempo de processamento total:        3,074000 s
+Resultado final acumulado:           -4294967296,0.
+
+Tempo para elevar ao quadrado:       0,686000 s
+Tempo para elevar ao quadrado:       0,671000 s
+Tempo para alocar matriz e subtrair: 1,373000 s
+Tempo para acumular:                 0,577000 s
+Tempo de processamento total:        3,307000 s
+Resultado final acumulado:           -6710886400,0.
+
+Threads = 2.
+
+Tempo para elevar ao quadrado:       0,468000 s
+Tempo para elevar ao quadrado:       0,436000 s
+Tempo para alocar matriz e subtrair: 0,765000 s
+Tempo para acumular:                 0,281000 s
+Tempo de processamento total:        1,950000 s
+Resultado final acumulado:           268435456,0.
+
+Tempo para elevar ao quadrado:       0,468000 s
+Tempo para elevar ao quadrado:       0,500000 s
+Tempo para alocar matriz e subtrair: 0,748000 s
+Tempo para acumular:                 0,297000 s
+Tempo de processamento total:        2,013000 s
+Resultado final acumulado:           0,0.
+
+Tempo para elevar ao quadrado:       0,437000 s
+Tempo para elevar ao quadrado:       0,405000 s
+Tempo para alocar matriz e subtrair: 0,765000 s
+Tempo para acumular:                 0,327000 s
+Tempo de processamento total:        1,934000 s
+Resultado final acumulado:           -805306368,0.
+
+Tempo para elevar ao quadrado:       0,468000 s
+Tempo para elevar ao quadrado:       0,530000 s
+Tempo para alocar matriz e subtrair: 0,952000 s
+Tempo para acumular:                 0,327000 s
+Tempo de processamento total:        2,277000 s
+Resultado final acumulado:           -2415919104,0.
+
+Tempo para elevar ao quadrado:       0,422000 s
+Tempo para elevar ao quadrado:       0,327000 s
+Tempo para alocar matriz e subtrair: 1,014000 s
+Tempo para acumular:                 0,297000 s
+Tempo de processamento total:        2,060000 s
+Resultado final acumulado:           -4294967296,0.
+
+Tempo para elevar ao quadrado:       0,437000 s
+Tempo para elevar ao quadrado:       0,343000 s
+Tempo para alocar matriz e subtrair: 1,123000 s
+Tempo para acumular:                 0,312000 s
+Tempo de processamento total:        2,215000 s
+Resultado final acumulado:           -6710886400,0.
+
+Threads = 4.
+
+Tempo para elevar ao quadrado:       0,265000 s
+Tempo para elevar ao quadrado:       0,250000 s
+Tempo para alocar matriz e subtrair: 0,600000 s
+Tempo para acumular:                 0,156000 s
+Tempo de processamento total:        1,271000 s
+Resultado final acumulado:           268435456,0.
+
+Tempo para elevar ao quadrado:       0,249000 s
+Tempo para elevar ao quadrado:       0,297000 s
+Tempo para alocar matriz e subtrair: 0,639000 s
+Tempo para acumular:                 0,172000 s
+Tempo de processamento total:        1,357000 s
+Resultado final acumulado:           0,0.
+
+Tempo para elevar ao quadrado:       0,265000 s
+Tempo para elevar ao quadrado:       0,265000 s
+Tempo para alocar matriz e subtrair: 0,718000 s
+Tempo para acumular:                 0,171000 s
+Tempo de processamento total:        1,419000 s
+Resultado final acumulado:           -805306368,0.
+
+Tempo para elevar ao quadrado:       0,234000 s
+Tempo para elevar ao quadrado:       0,234000 s
+Tempo para alocar matriz e subtrair: 0,827000 s
+Tempo para acumular:                 0,172000 s
+Tempo de processamento total:        1,467000 s
+Resultado final acumulado:           -2415919104,0.
+
+Tempo para elevar ao quadrado:       0,265000 s
+Tempo para elevar ao quadrado:       0,234000 s
+Tempo para alocar matriz e subtrair: 0,936000 s
+Tempo para acumular:                 0,187000 s
+Tempo de processamento total:        1,622000 s
+Resultado final acumulado:           -4294967296,0.
+
+Tempo para elevar ao quadrado:       0,281000 s
+Tempo para elevar ao quadrado:       0,250000 s
+Tempo para alocar matriz e subtrair: 1,060000 s
+Tempo para acumular:                 0,188000 s
+Tempo de processamento total:        1,779000 s
+Resultado final acumulado:           -6710886400,0.
+
